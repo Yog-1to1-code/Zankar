@@ -23,7 +23,7 @@ class TextStabilizer:
     it is mathematically 'stabilized' and can be permanently locked mid-sentence!
     """
     def __init__(self):
-        self.history = collections.deque(maxlen=3)
+        self.history = collections.deque(maxlen=2)
         self.locked_words = []
         
     def step(self, raw_text):
@@ -32,8 +32,8 @@ class TextStabilizer:
         
         newly_locked = []
         
-        if len(self.history) == 3:
-            # Find the longest common prefix across the last 3 transcript iterations
+        if len(self.history) == 2:
+            # Find the longest common prefix across the last 2 transcript iterations
             common = self.history[0]
             for words in list(self.history)[1:]:
                 idx = 0
