@@ -1,0 +1,63 @@
+{
+  "qso_entries": [
+    {
+      "date_utc": "2026-03-20",
+      "time_utc": "12:28",
+      "callsign": "LU1ZE",
+      "operator_name": "Charlie",
+      "qth": "Antarctica (Argentine Research Base, vessel HERO)",
+      "frequency_khz": "UNKNOWN",
+      "mode": "SSB",
+      "rst_sent": "UNKNOWN",
+      "rst_received": "59",
+      "remarks": "Contact from Argentine Research Base in Antarctica, operating from research vessel HERO. Operator Charlie, home call LU1PAL. Contact cut short due to operator needing to return to vessel."
+    }
+  ],
+  "session_summary": "This session involved a brief SSB contact with LU1ZE, operated by Charlie (home call LU1PAL) from the Argentine Research Base in Antarctica, aboard the research vessel HERO. The contact was cut short as Charlie needed to return to the vessel, but he confirmed a strong signal from W2PVF.",
+  "dialogue": [
+    {
+      "speaker": "You",
+      "text": "LU1ZE, LU1 Zebra Echo. Here is New Jersey, W2 Papa Victor Foxtrot."
+    },
+    {
+      "speaker": "They",
+      "text": "W2 Papa Victor Foxtrot, how copy?"
+    },
+    {
+      "speaker": "They",
+      "text": "Let me get that straight down. Uh, this is LU1 Zebra Echo."
+    },
+    {
+      "speaker": "They",
+      "text": "Argentina and Antarctica. My name is Charlie. And my home call is LU1 Papa Alpha Oscar Lima."
+    },
+    {
+      "speaker": "They",
+      "text": "...a small boat and I am using certain equipment courtesy of the Argentine Research Base here in Antarctica."
+    },
+    {
+      "speaker": "They",
+      "text": "Antarctica. And I gotta get this time down or I'll be in trouble. The name here is Charlie, Charlie. And you have a very nice signal."
+    },
+    {
+      "speaker": "They",
+      "text": "There were many stations calling, but your signal rolled everyone else. Now, believe me, I do have to cut this short."
+    },
+    {
+      "speaker": "They",
+      "text": "because the small boat, the power boat is waiting at the dock. I have to return to the research vessel."
+    },
+    {
+      "speaker": "They",
+      "text": "Hero, I spell it. Hotel Echo Romeo Oscar, is the name of the research vessel."
+    },
+    {
+      "speaker": "They",
+      "text": "I am assigned to. But I couldn't resist giving you the call or answering your call. But to any other stations that are on..."
+    },
+    {
+      "speaker": "They",
+      "text": "frequency, and there were several others calling. With regret, I must turn the mic over in about a minute and get out of here and get back to the..."
+    }
+  ]
+}
