@@ -1,2 +1,40 @@
-/.env
+# ============================================================
+# Project Zankar — .gitignore
+# ============================================================
+
+# Environment & secrets
+.env
+
+# macOS
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+
+# Session recordings & logs (user-generated data)
+recordings/*.wav
+recordings/*.log
+logs/*.json
+
+# Test audio files (too large for git)
+Test_audio_files/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# AI Models (large files, download separately)
+*.gguf
+*.bin
+*.safetensors

@@ -2,62 +2,56 @@
   "qso_entries": [
     {
       "date_utc": "2026-03-20",
-      "time_utc": "12:28",
-      "callsign": "LU1ZE",
+      "time_utc": "12:28:32",
+      "callsign": "W2PVF",
       "operator_name": "Charlie",
-      "qth": "Antarctica (Argentine Research Base, vessel HERO)",
-      "frequency_khz": "UNKNOWN",
+      "qth": "New Jersey",
       "mode": "SSB",
-      "rst_sent": "UNKNOWN",
-      "rst_received": "59",
-      "remarks": "Contact from Argentine Research Base in Antarctica, operating from research vessel HERO. Operator Charlie, home call LU1PAL. Contact cut short due to operator needing to return to vessel."
+      "rst_received": "RST",
+      "remarks": "LU-1ZE reported from Argentina and Antarctica, using equipment from a research base. Charlie is operating from a small boat near a research base (Hotel Easy Roger Ocean Zero) and is returning to it due to a boat waiting at the dock.  They acknowledged W2PVF's signal."
     }
   ],
-  "session_summary": "This session involved a brief SSB contact with LU1ZE, operated by Charlie (home call LU1PAL) from the Argentine Research Base in Antarctica, aboard the research vessel HERO. The contact was cut short as Charlie needed to return to the vessel, but he confirmed a strong signal from W2PVF.",
+  "session_summary": "LU-1ZE reported from Argentina and Antarctica, operating from a small boat near a research base. They acknowledged contact with W2PVF and had to terminate the contact due to a boat waiting at the dock. The operator, Charlie, was using equipment provided by the Argentine Research Base.",
   "dialogue": [
     {
-      "speaker": "You",
-      "text": "LU1ZE, LU1 Zebra Echo. Here is New Jersey, W2 Papa Victor Foxtrot."
+      "speaker": "LU-1ZE",
+      "text": "LU-1ZE LU-1 Zebra Echo Here is New Jersey W2 Papa Victor"
     },
     {
-      "speaker": "They",
-      "text": "W2 Papa Victor Foxtrot, how copy?"
+      "speaker": "W2PVF",
+      "text": "W2 Pampa Vector Foxtrot, have a copy."
     },
     {
-      "speaker": "They",
-      "text": "Let me get that straight down. Uh, this is LU1 Zebra Echo."
+      "speaker": "LU-1ZE",
+      "text": "Let me get that straight down. Uh, this is LU1. Zebra. It's gold. It's on."
     },
     {
-      "speaker": "They",
-      "text": "Argentina and Antarctica. My name is Charlie. And my home call is LU1 Papa Alpha Oscar Lima."
+      "speaker": "LU-1ZE",
+      "text": "Argentina and Antarctica returned. My name is Charlie, and my home call is with one."
     },
     {
-      "speaker": "They",
-      "text": "...a small boat and I am using certain equipment courtesy of the Argentine Research Base here in Antarctica."
+      "speaker": "LU-1ZE",
+      "text": "a small small boat and I am using certain equipment courtesy of the Argentine Research Base here in Antarctica."
     },
     {
-      "speaker": "They",
-      "text": "Antarctica. And I gotta get this time down or I'll be in trouble. The name here is Charlie, Charlie. And you have a very nice signal."
+      "speaker": "LU-1ZE",
+      "text": "And I gotta get this knife down or I'll be in trouble. The name here is Charlie. Charlie."
     },
     {
-      "speaker": "They",
-      "text": "There were many stations calling, but your signal rolled everyone else. Now, believe me, I do have to cut this short."
+      "speaker": "LU-1ZE",
+      "text": "There were many stations calling, but your signal reloaded everyone else."
     },
     {
-      "speaker": "They",
-      "text": "because the small boat, the power boat is waiting at the dock. I have to return to the research vessel."
+      "speaker": "LU-1ZE",
+      "text": "Now, believe me, I do have to cut this short because the spur boat is waiting at the dock. I have to return to the research battle."
     },
     {
-      "speaker": "They",
-      "text": "Hero, I spell it. Hotel Echo Romeo Oscar, is the name of the research vessel."
+      "speaker": "LU-1ZE",
+      "text": "I spell it. Hotel Easy Roger Ocean Zero is the name of the research banco."
     },
     {
-      "speaker": "They",
-      "text": "I am assigned to. But I couldn't resist giving you the call or answering your call. But to any other stations that are on..."
-    },
-    {
-      "speaker": "They",
-      "text": "frequency, and there were several others calling. With regret, I must turn the mic over in about a minute and get out of here and get back to the..."
+      "speaker": "LU-1ZE",
+      "text": "I am assigned to. But I couldn't resist giving you the call or answering your call. But to any other station that are on..."
     }
   ]
 }

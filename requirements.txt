@@ -1,0 +1,14 @@
+# Project Zankar — Core Dependencies
+mlx-whisper>=0.1.0
+sounddevice>=0.4.6
+numpy>=1.24.0
+scipy>=1.10.0
+webrtcvad>=2.0.10
+google-generativeai>=0.5.0
+python-dotenv>=1.0.0
+huggingface_hub>=0.20.0
+
+# Optional: Offline fallback inference
+# mlx-vlm>=0.1.0          # Local multimodal inference (Gemma 3 via MLX)
+# mlx-lm>=0.1.0           # Local text-only inference on MLX
+# llama-cpp-python>=0.2.0  # GGUF model inference via llama.cpp
